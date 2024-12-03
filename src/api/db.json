@@ -1,0 +1,27 @@
+{
+  "registration": [
+    {
+      "id": "dc0f",
+      "firstName": "Barrett",
+      "lastName": "Garret",
+      "email": "byre@mailinator.com",
+      "password": "Pa$$w0rd!",
+      "role": "Admin",
+      "phone": "3322116655",
+      "imageSrc": ""
+    },
+    {
+      "id": "3b0f",
+      "firstName": "Daquan",
+      "lastName": "Green",
+      "email": "fefycereke@mailinator.com",
+      "password": "Pa$$w0rd!",
+      "role": "Admin",
+      "phone": "3216547912",
+      "imageSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAKgAAAA1CAIAAABa0Td+AAACJUlEQVR4Ae2ZwW2EMBBFKYoTveRKHYgKXIVL8JkjPXDJkS4cWaugBbQSFp7vGfajKEIr4/nz33w2ips4NHFofv+vyOs7HEjUAeCnafoOP810CQJvxo+vEQoCz8RrmygQeG1tUw8IPBOvbdRA4LW1TT0g8Ey8tlEDgdfWNvWAwDPx2kYNBF5b29QDAs/Eaxs1EHi5tl3XB7ndn7szCLxE4kNwYYkJ/BJcuuWV4QAIfIainKVL6Lsmkc95iGuTAyDwEomPcXFd50L6RfK54wwCnysrcz25ZxpmPPHZ3fKBzYFnJH5rhzdXHQCBl/mOv9ok150dAIE/F+YndR0AgWfi62I+VweBPxfmJ3UdIPi6/lerTvDVrK9bmODr+l+tOhS8lZM0KzrvTA0IvJWTNCs67yB/PQsCH2O0cpJmRedN9jDwVk7SrOi8yR11LPsm08pJmhWdb9bm3MISnyOKa+UdIHh5j1VWIHiVWORFEby8xyorELxKLPKijuDXNfJH1IGhUeEwwaMxEDzacdEcX9+c4Am+pgMfX/Vj23t+35dzYPNTb+K9d36OSegcxjHM5Zq//j580sqDn3rBr2ucfd823Y9fngSgYi/vfmoGv4xtN3rXto5xLzEuOz81g9/+6GDiNyuK3CQ/TYAv0i032TlA8Ds7SrxRbWxI8DY4FZ9Igif4mg58/AdO8Unnhi8HlCZe/jyQFVQ4cEy8ClEUIe8Awct7rLLCHws6FDiZdeyRAAAAAElFTkSuQmCC"
+    }
+  ],
+  "posts": [],
+  "comments": [],
+  "commentreply": []
+}
